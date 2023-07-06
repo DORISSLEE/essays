@@ -1,4 +1,4 @@
-# Cross-Generation Communication: How The Age 18-45 Replied for the blessing image on the LINE Application?
+# Cross-Generation Communication: How The Group of Age 18-45 Replied for the blessing image on the LINE Application?
 
 Yi-Shan Hsieh, Chieh-Yu Wang, Yi-Chia Huang, Ya-Mei Cing Shuei, Wan-Yu Li, Pei-Ju Liu, Ming-Hsin Phoebe Chiu
 
@@ -64,7 +64,7 @@ Vibrant colors, primarily using square and rectangular shapes, with a simple sty
 <br>
 **Research Participants**
 
-Aged 18-45, in reacting to the receiving of blessing images from the elder friends and relatives.
+Aged 18-45 adult, in reacting to the receiving of blessing images from the elder friends and relatives.
 
 <br>
 **Background of Respondents **
@@ -81,23 +81,23 @@ Aged 18-45, in reacting to the receiving of blessing images from the elder frien
 .ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Chart1.png  width=75% right
 -  Greeting, hortatory, and news type of blessing images are usually “**leaving someone on read**“ or ” **reply with stickers **“.
 -  Fun type blessing image replies are commonly  “**reply with stickers**”.
--  When aged 18-45 receive blessing images, their responses may vary depending on the **type of blessing image, relationship with the sender, and the content of the images**.
+-  When group of aged 18-45 receive blessing images, their responses may vary depending on the **type of blessing image, relationship with the sender, and the content of the images**.
 -  Even it is the same type of blessing images, the response may differ based on the relationship between the sender and the recipient.
   
   
 <br> 
 **2.The effects of sharing**
 .ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Chart_2.png  width=75% right
--  Most aged 18-45 `disagree` blessing images could be seen as a channel of social interaction, information sharing, and relaxation and entertainment channels.
--  Most aged 18-45 `agreed` that blessing images could be seen as a channel of companionship and emotional expression.
--  It can be inferred that aged 18-45 consider blessing images could be a channel that can make elderly to avoid feeling lonely and to show care about the younger people.
+-  Most aged 18-45 adult `disagree` blessing images could be seen as a channel of social interaction, information sharing, and relaxation and entertainment channels.
+-  Most aged 18-45 adult `agreed` that blessing images could be seen as a channel of companionship and emotional expression.
+-  It can be inferred that group of aged 18-45 consider blessing images could be a channel that can make elderly to avoid feeling lonely and to show care about the younger people.
 
 ##Conclusion
 - Communication channel between the elderly and younger generations relies on the exchange of blessing images. This research explores the recipient's responses based on four types of blessing images as reference options.
-- By multiple-choice questions and open-ended answers, findings indicate that the recipients response varies depending on the type of blessing images received. Aged 18-45 preferred “leaving someone on read” in greeting, hortatory, news type, and “reply with stickers” in fun type of blessing images. Some participants adjust their responses based on the actual situation, which is influenced by their relationship with the sender and the content of the message.
+- By multiple-choice questions and open-ended answers, findings indicate that the recipients response varies depending on the type of blessing images received. Group of aged 18-45 preferred “leaving someone on read” in greeting, hortatory, news type, and “reply with stickers” in fun type of blessing images. Some participants adjust their responses based on the actual situation, which is influenced by their relationship with the sender and the content of the message.
 - Analyzing the attitudes towards receiving Blessing images, it is observed that respondents generally `agree` that it makes the elderly feel less lonely and brings a sense of care and concern from the elderly towards them.
 - Regarding the statement that it helps them stay connected with friends and family, brings enjoyment and amusement, and provides information, and is considered a trend, respondents tend to `disagree`.
-- It can be inferred that aged 18-45 perceive `the act of sending blessing images is a way of expressing love and care`.
+- It can be inferred that group of aged 18-45 perceive `the act of sending blessing images is a way of expressing love and care`.
 .ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Greeting3.png  width=40% 
 
 
