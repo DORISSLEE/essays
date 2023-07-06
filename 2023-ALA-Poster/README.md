@@ -10,13 +10,13 @@ Line app is the most popular communication tools in Taiwan. This study aims to e
 The research have shown the elderly people find that it easier to master and use with Line‘s functions, especially non-textual elements such as images or sounds, which enhance their comprehension. In order to keep connected with their children and friends, and feel accompanied, which encourage the elderly people keep using Line.
 
 #Method
-**Definition of “Blessing GIF” **
+# H3 Definition of “Blessing GIF” **
 
 Vibrant colors, primarily using square and rectangular shapes, with a simple style that complements concise text and utilizes larger font sizes in static images.
 
 
 **Four Types of  blessing GIFs**
-<table><tr><td>
+
 .ve-media  gh:DORISSLEE/media/blessingGIF-Greeting-1/blessing_GIF_-_Greeting.png width=10%  
     </td><td>
 .ve-media  gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-.png  width=10%
