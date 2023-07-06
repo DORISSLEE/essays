@@ -16,6 +16,7 @@ The research have shown the elderly people find that it easier to master and use
 
 Vibrant colors, primarily using square and rectangular shapes, with a simple style that complements concise text and utilizes larger font sizes in static images.
 
+<br>
 
 **Four Types of  blessing GIFs**
 
@@ -25,7 +26,9 @@ Vibrant colors, primarily using square and rectangular shapes, with a simple sty
 | Fun Type     | Some jokes.       |
 | Hortatory Type     | Some encourage words.       |
 | News Type  | Some news or informations.        |
-  
+.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Chart_2.png
+
+<br>  
 .ve-media  gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Greeting-1.png width=30%  left 
 
 .ve-media  gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-.png  width=30% right
@@ -36,6 +39,7 @@ Vibrant colors, primarily using square and rectangular shapes, with a simple sty
 
 (**top left: **Greeting Type,** top right:** Fun Type, **bottom left:** Hortatory Type, **bottom right:** News Type)
 
+<br>
 
 **Types of response**
 
@@ -48,7 +52,7 @@ Vibrant colors, primarily using square and rectangular shapes, with a simple sty
 |  Reply with other blessing GIFs     | 
 | Others     | 
  
-
+<br>
 **Questionnaires to investigate the responses and attitudes after received “blessing GIFs” **
 - Social interaction - I believe receiving blessing GIF allows me to maintain contact with friends and family.
 - Information sharing - I believe receiving blessing GIF provides useful information.
@@ -58,13 +62,14 @@ Vibrant colors, primarily using square and rectangular shapes, with a simple sty
 - Emotional expression - I believe receiving blessing GIF makes me feel cared for, loved, and valued by the elderly.
 
 
-
+<br>
 **Research Participants**
 
 young adults, aged 18-45, in reacting to the receiving of blessing GIFs from the elder friends and relatives.
 
+<br>
 **Background of Respondents **
-
+.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-News.png  width=40% right
 - Web-based surveys: Multiple-choice questions, a five-point scale
 - Method: Distributed through Facebook, Line App, and others.
 - Period: Nov. 21 to Nov. 28 2022
@@ -74,25 +79,26 @@ young adults, aged 18-45, in reacting to the receiving of blessing GIFs from the
 
 ###Findings
 **1.Response patterns and attitudes**
-.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Chart1.png  width=90% right
--  Greeting, hortatory, and news type of blessing GIF are usually “`leaving someone on read`“ or ” `reply with stickers `“.
--  Fun type blessing GIF replies are commonly  “`reply with stickers`”.
--  When young adults receive blessing GIF, their responses may vary depending on the ` type of blessing GIF, relationship with the sender, and the content of the GIF`.
+.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Chart1.png  width=75% right
+-  Greeting, hortatory, and news type of blessing GIF are usually “**leaving someone on read**“ or ” **reply with stickers **“.
+-  Fun type blessing GIF replies are commonly  “**reply with stickers**”.
+-  When young adults receive blessing GIF, their responses may vary depending on the **type of blessing GIF, relationship with the sender, and the content of the GIF**.
 -  Even it is the same type of blessing GIF, the response may differ based on the relationship between the sender and the recipient.
   
   
-<p> </p> 
-<p> </p> 
-<p> </p> 
+<br> 
 **2.The effects of sharing**
-.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Chart_2.png  width=90% right
+.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Chart_2.png  width=75% right
 -  Most young adults `disagree` blessing GIF could be seen as a channel of social interaction, information sharing, and relaxation and entertainment channels.
 -  Most young adults `agreed` that blessing GIF could be seen as a channel of companionship and emotional expression.
 -  It can be inferred that young adults consider blessing GIF could be a channel that can make elderly to avoid feeling lonely and to show care about the younger people.
 
 ##Conclusion
-- Young adults preferred “leaving someone on read” in greeting, hortatory, news type, and “reply with stickers” in fun type of “blessing GIF.” 
-- Young adults agreed that “blessing GIF” could be seen as a channel of companionship and emotional expression from their senior friends and relatives. 
+- Communication channel between the elderly and younger generations relies on the exchange of blessing GIF. This research explores the recipient's responses based on four types of blessing GIF as reference options.
+- By multiple-choice questions and open-ended answers, findings indicate that the recipients response varies depending on the type of blessing GIF received. young adults preferred “leaving someone on read” in greeting, hortatory, news type, and “reply with stickers” in fun type of blessing GIF. Some participants adjust their responses based on the actual situation, which is influenced by their relationship with the sender and the content of the message.
+- Analyzing the attitudes towards receiving Blessing GIFs, it is observed that respondents generally `agree` that it makes the elderly feel less lonely and brings a sense of care and concern from the elderly towards them.
+- Regarding the statement that it helps them stay connected with friends and family, brings enjoyment and amusement, and provides information, and is considered a trend, respondents tend to `disagree`.
+- It can be inferred that young adults perceive `the act of sending blessing GIFs is a way of expressing love and care`.
 .ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Greeting3.png  width=40% 
 
 
