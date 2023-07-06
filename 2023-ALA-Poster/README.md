@@ -7,7 +7,7 @@ National Taiwan Normal University
 ---
 
 ###Background
-.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Line.png  width=30% right
+.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Line.png  width=40% right
 Line app is the most popular communication tools in Taiwan. This study aims to explore the difference in communication style of cross generation on the app Line. It seeks to understand the intentions behind elder generations sharing blessing GIF images, the effects of such sharing on the social media, and the response patterns and attitudes of younger generations when receiving these images.
 The research have shown the elderly people find that it easier to master and use with Line‘s functions, especially non-textual elements such as images or sounds, which enhance their comprehension. In order to keep connected with their children and friends, and feel accompanied, which encourage the elderly people keep using Line.
 
@@ -26,7 +26,6 @@ Vibrant colors, primarily using square and rectangular shapes, with a simple sty
 | Fun Type     | Some jokes.       |
 | Hortatory Type     | Some encourage words.       |
 | News Type  | Some news or informations.        |
-.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Chart_2.png
 
 <br>  
 .ve-media  gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Greeting-1.png width=30%  left 
