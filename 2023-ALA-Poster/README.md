@@ -1,4 +1,4 @@
-# Cross-Generation Communication: How The Group of Age 18-45 Replied for the blessing image on the LINE Application?
+# Cross-Generation Communication: How The Group of Age 18-45 Reply for the blessing image on the LINE Application?
 
 Yi-Shan Hsieh, Chieh-Yu Wang, Yi-Chia Huang, Ya-Mei Cing Shuei, Wan-Yu Li, Pei-Ju Liu, Ming-Hsin Phoebe Chiu
 
