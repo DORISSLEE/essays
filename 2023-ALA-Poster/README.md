@@ -88,8 +88,8 @@ Aged 18-45 adult, in reacting to the receiving of blessing images from the elder
 <br> 
 **2.The effects of sharing**
 .ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Chart_2.png  width=75% right
--  Most aged 18-45 adult `disagree` blessing images could be seen as a channel of social interaction, information sharing, and relaxation and entertainment channels.
--  Most aged 18-45 adult `agreed` that blessing images could be seen as a channel of companionship and emotional expression.
+-  Most aged 18-45 adults `disagree` blessing images could be seen as a channel of social interaction, information sharing, and relaxation and entertainment channels.
+-  Most aged 18-45 adults `agreed` that blessing images could be seen as a channel of companionship and emotional expression.
 -  It can be inferred that group of aged 18-45 consider blessing images could be a channel that can make elderly to avoid feeling lonely and to show care about the younger people.
 
 ##Conclusion
