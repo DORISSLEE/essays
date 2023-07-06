@@ -48,7 +48,7 @@ Vibrant colors, primarily using square and rectangular shapes, with a simple sty
 | Leaving someone on read     |
 | Reply with stickers     | 
 | Reply with text     | 
-| Reply with other blessing GIFs     | 
+| Reply with other blessing images     | 
 | Others     | 
  
 <br>
@@ -80,8 +80,8 @@ Aged 18-45, in reacting to the receiving of blessing images from the elder frien
 **1.Response patterns and attitudes**
 .ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Chart1.png  width=75% right
 -  Greeting, hortatory, and news type of blessing images are usually “**leaving someone on read**“ or ” **reply with stickers **“.
--  Fun type blessing GIF replies are commonly  “**reply with stickers**”.
--  When aged 18-45 receive blessing images, their responses may vary depending on the **type of blessing GIF, relationship with the sender, and the content of the GIF**.
+-  Fun type blessing image replies are commonly  “**reply with stickers**”.
+-  When aged 18-45 receive blessing images, their responses may vary depending on the **type of blessing image, relationship with the sender, and the content of the images**.
 -  Even it is the same type of blessing images, the response may differ based on the relationship between the sender and the recipient.
   
   
@@ -90,7 +90,7 @@ Aged 18-45, in reacting to the receiving of blessing images from the elder frien
 .ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Chart_2.png  width=75% right
 -  Most aged 18-45 `disagree` blessing images could be seen as a channel of social interaction, information sharing, and relaxation and entertainment channels.
 -  Most aged 18-45 `agreed` that blessing images could be seen as a channel of companionship and emotional expression.
--  It can be inferred that young adults consider blessing images could be a channel that can make elderly to avoid feeling lonely and to show care about the younger people.
+-  It can be inferred that aged 18-45 consider blessing images could be a channel that can make elderly to avoid feeling lonely and to show care about the younger people.
 
 ##Conclusion
 - Communication channel between the elderly and younger generations relies on the exchange of blessing images. This research explores the recipient's responses based on four types of blessing images as reference options.
