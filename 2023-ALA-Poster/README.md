@@ -52,7 +52,7 @@ Vibrant colors, primarily using square and rectangular shapes, with a simple sty
 | Others     | 
  
 <br>
-**Questionnaires to investigate the responses and attitudes after received “blessing GIFs” **
+**Questionnaires to investigate the responses and attitudes after received “blessing images” **
 - Social interaction - I believe receiving blessing image allows me to maintain contact with friends and family.
 - Information sharing - I believe receiving blessing image provides useful information.
 - Companionship - I believe receiving blessing images helps to accompany the elderly and prevent them from feeling lonely and isolated.
