@@ -93,7 +93,7 @@ Aged 18-45, in reacting to the receiving of blessing images from the elder frien
 -  It can be inferred that young adults consider blessing images could be a channel that can make elderly to avoid feeling lonely and to show care about the younger people.
 
 ##Conclusion
-- Communication channel between the elderly and younger generations relies on the exchange of blessing images. This research explores the recipient's responses based on four types of blessing imagesGIF as reference options.
+- Communication channel between the elderly and younger generations relies on the exchange of blessing images. This research explores the recipient's responses based on four types of blessing images as reference options.
 - By multiple-choice questions and open-ended answers, findings indicate that the recipients response varies depending on the type of blessing images received. Aged 18-45 preferred “leaving someone on read” in greeting, hortatory, news type, and “reply with stickers” in fun type of blessing images. Some participants adjust their responses based on the actual situation, which is influenced by their relationship with the sender and the content of the message.
 - Analyzing the attitudes towards receiving Blessing images, it is observed that respondents generally `agree` that it makes the elderly feel less lonely and brings a sense of care and concern from the elderly towards them.
 - Regarding the statement that it helps them stay connected with friends and family, brings enjoyment and amusement, and provides information, and is considered a trend, respondents tend to `disagree`.
