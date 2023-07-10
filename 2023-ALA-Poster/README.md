@@ -20,10 +20,6 @@ The research have shown the elderly people find that it easier to master and use
 
 Vibrant colors, primarily using square and rectangular shapes, with a simple style that complements concise text and utilizes larger font sizes in static images.
 
-<br>f7611f07f7611f07xcessive use of mobile phones can damage eyesight
-xcessive use of mobile phones can damage eyesight
-
-
 **Four Types of  blessing images**
 
 | Types of  blessing images    | Description|
