@@ -36,7 +36,7 @@ xcessive use of mobile phones can damage eyesight
 <br>  
 .ve-media  gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Greeting-1.png width=30%  left 
 
-.ve-media  gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-.png  width=30% right
+.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-.png  width=30% right
 
 .ve-media  gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-hortatory.png width=30%  left
 
