@@ -107,5 +107,5 @@ Aged 18-45 adult, in reacting to the receiving of blessing images from the elder
 .ve-map Q706712  3 marker width=70% left
 We are here. 
 
-Welcome to visit us.
+Welcome to visit Taiwan.
 
