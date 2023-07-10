@@ -22,10 +22,10 @@ Vibrant colors, primarily using square and rectangular shapes, with a simple sty
 
 | Types of  blessing images    | Description|
 | ----------- | ----------- |
-| Greeting Type | Have words like "Good Morning", "How are you.".       | 
-| Fun Type     | Some jokes.       |
-| Hortatory Type     | Some encourage words.       |
-| News Type  | Some news or informations.        |
+| Greeting Type | Greeting words on the image, such as hello "Good Morning", "How are you.", "Hello".       | 
+| Fun Type     | Jokes on images.       |
+| Hortatory Type     | Encourage words on the image.       |
+| News Type  | News or informations on the image.        |
 
 <br>  
 .ve-media  gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Greeting-1.png width=30%  left 
