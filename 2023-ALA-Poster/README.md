@@ -101,7 +101,7 @@ Aged 18-45 adult, in reacting to the receiving of blessing images from the elder
 .ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Greeting3.png  width=40% 
 ---
 **Geographical location of National Taiwan Normal University:**
-.ve-map Q706712 5 marker 10 width=70% left
+.ve-map Q706712  5 marker 10 width=70% left
 
 [^1]:National Taiwan Normal University [https://en.ntnu.edu.tw/](https://en.ntnu.edu.tw/)
 
