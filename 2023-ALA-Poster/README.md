@@ -1,5 +1,4 @@
-.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/ALA_conference_2023.png  fit
-
+<img src="https://github.com/DORISSLEE/media/blob/main/blessingGIF-Greeting-1/ALA_conference_2023.png?raw=true">
 # Cross-Generation Communication: How The Group of Age 18-45 Reply for the blessing image on the LINE Application?
 
 Yi-Shan Hsieh, Chieh-Yu Wang, Yi-Chia Huang, Ya-Mei Cing Shuei, Wan-Yu Li, Pei-Ju Liu, Ming-Hsin Phoebe Chiu
