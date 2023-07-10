@@ -5,8 +5,8 @@
 Yi-Shan Hsieh, Chieh-Yu Wang, Yi-Chia Huang, Ya-Mei Cing Shuei, Wan-Yu Li, Pei-Ju Liu, Ming-Hsin Phoebe Chiu
 
 
- [<img src="https://github.com/DORISSLEE/media/blob/main/blessingGIF-Greeting-1/GLIS_Logo.png?raw=true" width="50" height="50">Graduate Institute of Library & Information Studies, ](https://www.glis.ntnu.edu.tw/index.php/en/main/)<br>
- [National Taiwan Normal University](https://en.ntnu.edu.tw/)
+ [<img src="https://github.com/DORISSLEE/media/blob/main/blessingGIF-Greeting-1/GLIS_Logo.png?raw=true" width="30" height="30">Graduate Institute of Library & Information Studies, ](https://www.glis.ntnu.edu.tw/index.php/en/main/)<br>
+ [<img src="https://github.com/DORISSLEE/media/blob/main/blessingGIF-Greeting-1/NTNU.png?raw=true" width="30" height="30">National Taiwan Normal University](https://en.ntnu.edu.tw/)
 
 ---
 
@@ -104,7 +104,7 @@ Aged 18-45 adult, in reacting to the receiving of blessing images from the elder
 .ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Greeting3.png  width=40% 
 
 ---
-![](https://github.com/DORISSLEE/media/blob/main/blessingGIF-Greeting-1/NTNU_GLIS.png?raw=true) 
-We are here.
+![](https://github.com/DORISSLEE/media/blob/main/blessingGIF-Greeting-1/NTNU_GLIS.png?raw=true) <br>
+We are here. Welcome to visit us.
 .ve-map Q706712  3 marker width=70% left
 
