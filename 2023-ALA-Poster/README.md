@@ -9,6 +9,7 @@ Yi-Shan Hsieh, Chieh-Yu Wang, Yi-Chia Huang, Ya-Mei Cing Shuei, Wan-Yu Li, Pei-J
 
 ---
 
+
 ###Background
 .ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Line.png  width=40% right
 Line app is the most popular instant messaging(IM) tool in Taiwan. This study aims to explore the difference in communication style of cross generation on the app Line. It seeks to understand the intentions behind elder generations sharing blessing images, the effects of such sharing on the social media, and the response patterns and attitudes of younger generations when receiving these images.
@@ -104,7 +105,7 @@ Aged 18-45 adult, in reacting to the receiving of blessing images from the elder
 .ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Greeting3.png  width=40% 
 ---
 **Geographical location of National Taiwan Normal University:**
-.ve-map Q706712  5 marker 42.281,-83.748 10 width=70% left
+.ve-map Q706712  3 marker width=70% left
 
 [^1]:National Taiwan Normal University [https://en.ntnu.edu.tw/](https://en.ntnu.edu.tw/)
 
