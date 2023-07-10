@@ -105,6 +105,8 @@ Aged 18-45 adult, in reacting to the receiving of blessing images from the elder
 
 ---
 ![](https://github.com/DORISSLEE/media/blob/main/blessingGIF-Greeting-1/NTNU_GLIS.png?raw=true) <br>
-We are here. Welcome to visit us.
 .ve-map Q706712  3 marker width=70% left
+We are here. 
+
+Welcome to visit us.
 
