@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "[Greeting Type]\nPeace \nHappiness",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/e91030fd8eec58dea5a1ee9e23df9552d917858e1b4af00fc87f12113df2f9ac",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:343.961669921875,73.59050750732422,1038.0123291015625,813.7197952270508"
+      },
+      "id": "e91030fd"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c1d6e58d"
+  }
+]
