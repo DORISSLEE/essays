@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "156a679f"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "It's crucial, parents please take it seriously.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/0f8afacf9ab84e633f916a575aa4b2f28fa006de7d32242010ba7f0e3cddc48f",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:74.87413024902344,640.6975708007812,1316.1607818603516,137.11883544921875"
+      },
+      "id": "0f8afacf"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "10274c84"
   }
 ]
