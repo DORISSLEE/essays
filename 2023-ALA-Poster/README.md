@@ -2,7 +2,7 @@
 
 Yi-Shan Hsieh, Chieh-Yu Wang, Yi-Chia Huang, Ya-Mei Cing Shuei, Wan-Yu Li, Pei-Ju Liu, Ming-Hsin Phoebe Chiu
 
-National Taiwan Normal University
+National Taiwan Normal University[^1]
 
 ---
 
@@ -100,6 +100,7 @@ Aged 18-45 adult, in reacting to the receiving of blessing images from the elder
 - It can be inferred that group of aged 18-45 perceive `the act of sending blessing images is a way of expressing love and care`.
 .ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Greeting3.png  width=40% 
 
+.ve-map Q697093 width=50%
 
-
+[^1]:National Taiwan Normal University [https://en.ntnu.edu.tw/](https://en.ntnu.edu.tw/)
 
