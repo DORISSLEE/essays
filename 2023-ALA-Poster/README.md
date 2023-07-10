@@ -5,9 +5,11 @@
 Yi-Shan Hsieh, Chieh-Yu Wang, Yi-Chia Huang, Ya-Mei Cing Shuei, Wan-Yu Li, Pei-Ju Liu, Ming-Hsin Phoebe Chiu
 
  [Graduate Institute of Library & Information Studies, ](https://www.glis.ntnu.edu.tw/index.php/en/main/)<br>
+.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-hortatory.png
  [National Taiwan Normal University](https://en.ntnu.edu.tw/)
 
 ---
+.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-hortatory.png
 
 
 ###Background
