@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "[Fun Type]\nPlease tell me the size of the air conditioner.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/5dd88073cde7fdff04a790a697a13f092749cb10638b38e77b96e8e174c58472",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:-106.74447631835938,564.9777526855469,1321.7444763183594,380.8000183105469"
+      },
+      "id": "5dd88073"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "612ea6fb"
+  }
+]
