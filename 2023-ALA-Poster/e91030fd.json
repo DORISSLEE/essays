@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Peace\nHappiness",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/e91030fd8eec58dea5a1ee9e23df9552d917858e1b4af00fc87f12113df2f9ac",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:197.0638427734375,72.07192993164062,583.5108642578125,822.2805480957031"
+      },
+      "id": "e91030fd"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "26b6e0bf"
+  }
+]
