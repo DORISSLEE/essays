@@ -4,11 +4,11 @@
 
 Yi-Shan Hsieh, Chieh-Yu Wang, Yi-Chia Huang, Ya-Mei Cing Shuei, Wan-Yu Li, Pei-Ju Liu, Ming-Hsin Phoebe Chiu
 
- [Graduate Institute of Library & Information Studies, ](https://www.glis.ntnu.edu.tw/index.php/en/main/)<br>
+
+ [<img src="https://github.com/DORISSLEE/media/blob/main/blessingGIF-Greeting-1/GLIS_Logo.png?raw=true" width="50" height="50">Graduate Institute of Library & Information Studies, ](https://www.glis.ntnu.edu.tw/index.php/en/main/)<br>
  [National Taiwan Normal University](https://en.ntnu.edu.tw/)
 
 ---
-
 
 ###Background
 .ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Line.png  width=40% right
@@ -108,6 +108,7 @@ Aged 18-45 adult, in reacting to the receiving of blessing images from the elder
 .ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Greeting3.png  width=40% 
 
 ---
-**Geographical location of National Taiwan Normal University:**
+![](https://github.com/DORISSLEE/media/blob/main/blessingGIF-Greeting-1/NTNU_GLIS.png?raw=true) 
+**Geographical location**
 .ve-map Q706712  3 marker width=70% left
 
