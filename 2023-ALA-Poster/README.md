@@ -26,24 +26,13 @@ xcessive use of mobile phones can damage eyesight
 
 **Four Types of  blessing images**
 
-.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Greeting-1.png
 | Types of  blessing images    | Description|
 | ----------- | ----------- |
-.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Greeting-1.png
 | Greeting Type | Greeting words on the image, such as hello "Good Morning", "How are you.", "Hello".       | 
-.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Greeting-1.png
 | Fun Type     | Jokes on images.       |
 | Hortatory Type     | Encourage words on the image.       |
 | News Type  | News or informations on the image.        |
-    - gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-hortatory.png
-    - gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-hortatory.png
-    - gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-hortatory.png
-    - gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-hortatory.png
-    - gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-hortatory.png
-    - gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-hortatory.png
-    - gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-hortatory.png
-    - gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-hortatory.png
-
+    
 <br>  
 .ve-media  gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Greeting-1.png width=30%  left 
 
