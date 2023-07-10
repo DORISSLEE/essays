@@ -1,8 +1,11 @@
+.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/ALA_conference_2023.png
+
 # Cross-Generation Communication: How The Group of Age 18-45 Reply for the blessing image on the LINE Application?
 
 Yi-Shan Hsieh, Chieh-Yu Wang, Yi-Chia Huang, Ya-Mei Cing Shuei, Wan-Yu Li, Pei-Ju Liu, Ming-Hsin Phoebe Chiu
 
-National Taiwan Normal University[^1]
+ [Graduate Institute of Library & Information Studies, ](https://www.glis.ntnu.edu.tw/index.php/en/main/)<br>
+ [National Taiwan Normal University](https://en.ntnu.edu.tw/)
 
 ---
 
@@ -101,7 +104,7 @@ Aged 18-45 adult, in reacting to the receiving of blessing images from the elder
 .ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Greeting3.png  width=40% 
 ---
 **Geographical location of National Taiwan Normal University:**
-.ve-map Q706712  5 marker 10 width=70% left
+.ve-map Q706712  5 marker 42.281,-83.748 10 width=70% left
 
 [^1]:National Taiwan Normal University [https://en.ntnu.edu.tw/](https://en.ntnu.edu.tw/)
 
