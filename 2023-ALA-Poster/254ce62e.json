@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Blessing Images",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/254ce62e96ccbc3525e105d33abbfe6a6fe7cf745ef7d47f81b08cf587479456",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:412.9261169433594,1090.87646484375,1097.1328430175781,817.4639892578125"
+      },
+      "id": "254ce62e"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b32f14a2"
+  }
+]
