@@ -1,4 +1,4 @@
-.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/ALA_conference_2023.png
+.ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/ALA_conference_2023.png  fit
 
 # Cross-Generation Communication: How The Group of Age 18-45 Reply for the blessing image on the LINE Application?
 
