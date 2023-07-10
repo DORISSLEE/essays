@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "[News Type]\nDon't let children excessive use of mobile phones, it can damage eyesight.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/0f8afacf9ab84e633f916a575aa4b2f28fa006de7d32242010ba7f0e3cddc48f",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:89.30770111083984,81.39685821533203,1155.5874404907227,184.70455169677734"
+      },
+      "id": "0f8afacf"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "156a679f"
+  }
+]
