@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Step out into a brilliant lift",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/9c0172bc6fcbbe70b2679c6713be718a6e0514a4cfd8cd000565c698491f3338",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:765.1226806640625,162.6838836669922,488.8773193359375,1244.9490509033203"
+      },
+      "id": "9c0172bc"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b94f30d6"
+  }
+]
