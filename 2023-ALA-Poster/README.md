@@ -11,13 +11,10 @@ Yi-Shan Hsieh, Chieh-Yu Wang, Yi-Chia Huang, Ya-Mei Cing Shuei, Wan-Yu Li, Pei-J
 
 ###Background
 .ve-media gh:DORISSLEE/media/blessingGIF-Greeting-1/blessingGIF-Line.png  width=40% right
-==Vincent van Gogh=={Q5582}.
-==Line app=={Q602471}. is the most popular instant messaging(IM) tool in Taiwan. This study aims to explore the difference in communication style of cross generation on the app Line. It seeks to understand the intentions behind elder generations sharing blessing images, the effects of such sharing on the social media, and the response patterns and attitudes of younger generations when receiving these images.
-
+==Vincent van Gogh=={Q5582}    is the most popular instant messaging(IM) tool in Taiwan. This study aims to explore the difference in communication style of cross generation on the app Line. It seeks to understand the intentions behind elder generations sharing blessing images, the effects of such sharing on the social media, and the response patterns and attitudes of younger generations when receiving these images.
+ ==Line app=={Q602471} 
 The research have shown the elderly people find that it easier to master and use with Line‘s functions, especially non-textual elements such as images or sounds, which enhance their comprehension. In order to keep connected with their children and friends, and feel accompanied, which encourage the elderly people keep using Line.
 
-
-###Method
 **Definition of “Blessing Image” **
 
 >Vibrant colors, primarily using square and rectangular shapes, with a simple style that complements concise text and utilizes larger font sizes in static images.
