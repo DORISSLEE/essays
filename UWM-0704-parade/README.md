@@ -20,3 +20,7 @@ A parade full of amazing proformaces and  candies.
 .ve-map Q1435893 8 marker 42.281,-83.748 10 width=70% left
 Location of Shorewood
 
+
+.ve-map right
+    Q1435893 Miami
+In the map at the right, "fly to" ==Miami=={flyto=25.783,-80.217,10}
