@@ -114,3 +114,6 @@ We are here.
 
 Welcome to visit Taiwan.
 
+.ve-map Q1435893 5  width=40% right
+    - Q706712
+Fly to ==NTNU=={flyto:Q706712}
