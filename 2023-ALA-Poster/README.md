@@ -17,7 +17,7 @@ The research have shown the elderly people find that it easier to master and use
 ###Method
 **Definition of “Blessing Image” **
 
-Vibrant colors, primarily using square and rectangular shapes, with a simple style that complements concise text and utilizes larger font sizes in static images.
+>Vibrant colors, primarily using square and rectangular shapes, with a simple style that complements concise text and utilizes larger font sizes in static images.
 
 **Four Types of  blessing images**
 
@@ -104,7 +104,7 @@ Aged 18-45 adult, in reacting to the receiving of blessing images from the elder
 
 ---
 ![](https://github.com/DORISSLEE/media/blob/main/blessingGIF-Greeting-1/NTNU_GLIS.png?raw=true) <br>
-.ve-map Q706712  3 marker width=70% left
+.ve-map Q706712  2 marker width=70% left
 We are here. 
 
 Welcome to visit Taiwan.
