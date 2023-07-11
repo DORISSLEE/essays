@@ -21,6 +21,11 @@ A parade full of amazing proformaces and  candies.
 Location of Shorewood
 
 
+ 
+.ve-map Q1435893 8 right
+    - Q706712
+Fly to ==Taiwan=={flyto:Q706712}
+
 .ve-map right
-    Q1435893 Miami
+    - Q1435893 Q706712
 In the map at the right, "fly to" ==Miami=={flyto=25.783,-80.217,10}
