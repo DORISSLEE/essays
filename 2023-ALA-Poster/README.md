@@ -14,7 +14,6 @@ Yi-Shan Hsieh, Chieh-Yu Wang, Yi-Chia Huang, Ya-Mei Cing Shuei, Wan-Yu Li, Pei-J
 
 The research have shown the elderly people find that it easier to master and use with Line‘s functions, especially non-textual elements such as images or sounds, which enhance their comprehension. In order to keep connected with their children and friends, and feel accompanied, which encourage the elderly people keep using Line.
 
-.ve-media https://digitalarchive.npm.gov.tw/Painting/IIIFViewer?pid=7144&Dept=P left
 
 <br>
 <br>
