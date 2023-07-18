@@ -51,7 +51,7 @@ Several peaks exceed 3,500 m in height - the highest, Yu Shan at 3,952 m (12,966
 <br>
 <br>
 <br>
-
+ 
 ---
 Welcome to visit Taiwan.
 
@@ -61,8 +61,7 @@ Welcome to visit Taiwan.
     - Q706712 
 Fly to ==Taiwan=={flyto:Q706712}  
 <br>
-
-weather
+ 
 Mt. Jade 
 ic chip 
 **Visiting Spot**
