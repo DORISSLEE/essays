@@ -6,7 +6,7 @@
 
 .ve-map Q706712 0 marker width=60% right
 <br>
-Taiwan, formerly known as Formosa, is a beautiful island located in East Asia. 
+==Taiwan=={Q865}, formerly known as Formosa, is a beautiful island located in East Asia. 
 
 The main island measures 35,808 square kilometres (13,826 sq mi) . The length is about 395 kilometers(245.4 mi) from north to south, and its maximum width from east to west is about 144 kilometers(89.4 mi). 
 
