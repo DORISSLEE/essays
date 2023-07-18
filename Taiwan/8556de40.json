@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "25ad21df"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Mt. Yu Shan at 3,952m(12,966 ft) , makes Taiwan the world's fourth-highest island.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://cdm17272.contentdm.oclc.org/digital/iiif/agdm/25436",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:4726.79833984375,7857.30419921875,392.1787109375,320.7392578125"
+      },
+      "id": "8556de40"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9f0c4eb7"
   }
 ]
