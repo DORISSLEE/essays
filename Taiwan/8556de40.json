@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Taipei City",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://cdm17272.contentdm.oclc.org/digital/iiif/agdm/25436",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:6554,1320,814,814"
+      },
+      "id": "8556de40"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "25ad21df"
+  }
+]
