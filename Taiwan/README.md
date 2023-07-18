@@ -10,7 +10,7 @@ Taiwan, formerly known as Formosa, is a beautiful island located in East Asia.
 
 The main island measures 35,808 square kilometres (13,826 sq mi) . The length is about 395 kilometers(245.4 mi) from north to south, and its maximum width from east to west is about 144 kilometers(89.4 mi). 
 
-Taiwan has a great mixture of urban and nature. We can go shopping in Taipei 101,  but also surf or climb mountains.
+Taiwan has a great mixture of urban and nature. We can go shopping in Taipei 101,  but also can go surf or climb mountains.
 
 Taiwan has a population of over 23 million. Most of the population is Han Chinese. And also home to many indigenous peoples, there are 16 indigenous tribes in Taiwan, comprise approximately 2% of the population. 
 
@@ -21,6 +21,7 @@ Taiwanese people are friendly, nice, passionate and hospitable, so it is agreed 
 <br>
 
 .ve-media gh:DORISSLEE/media/IntroduceTaiwan/Taiwan_Climate.jpg width=40% right
+**Climate**
 
 The climate ranges from tropical in the south to subtropical in the north, and is governed by the East Asian Monsoon. 
 <br>
