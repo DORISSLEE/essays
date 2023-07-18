@@ -1,3 +1,4 @@
+<img src="https://github.com/DORISSLEE/media/blob/main/IntroduceTaiwan/NPM.jpg?raw=true">
 
 # Taiwan
 
@@ -58,7 +59,15 @@ Several peaks exceed 3,500 m in height - the highest, Yu Shan at 3,952 m (12,966
 
 ==National Palace Museum=={Q540668} is a museum in Taipei.  The museum's collection encompasses items spanning 8,000 years of Chinese history from the neolithic age to the modern period. The National Palace Museum shares its roots with the Palace Museum of Beijing, whose extensive collection of artwork and artifacts were built upon the imperial collections of the Ming and Qing dynasties.
 
+.ve-media gh:DORISSLEE/media/IntroduceTaiwan/Yehliu-QueensHead.jpg width=70% right
+==Coast Line : Yehliu Geopark=={Q716932} 
 
+[https://newtaipei.travel/en/attractions/detail/111495](https://newtaipei.travel/en/attractions/detail/111495)<br>
+[http://www.ylgeopark.org.tw/](http://www.ylgeopark.org.tw/)<br>
+Yehliu Geo-park features all sorts of strange-looking rocks. It is part of Datun Mountain that stretches out to the sea. Weathering, marine erosion, and crustal movement together created the world-renowned scenery of mushroom rocks, sea caves, tofu rocks, candle rocks, and giant’s kettles. Among all, Queen’s Head is the most representative landmark and check-in attraction in Yehliu. Cute Princess, a rock that resembles a girl with a pony tail, is considered the successor of Queen’s Head.<br>
+
+Visit the natural geological classroom. Enjoy spectacular scenery, Queen’s Head.
+ 
 ---
 Welcome to visit Taiwan.
 
@@ -74,22 +83,17 @@ ic chip
 **Visiting Spot**
 National Palace Museum<br>
 Taipei 101<br>
-Coast Line : Yehliu Geopark<br>
-[https://newtaipei.travel/en/attractions/detail/111495](https://newtaipei.travel/en/attractions/detail/111495)<br>
-[http://www.ylgeopark.org.tw/](http://www.ylgeopark.org.tw/)<br>
-Yehliu Geo-park features all sorts of strange-looking rocks. It is part of Datun Mountain that stretches out to the sea. Weathering, marine erosion, and crustal movement together created the world-renowned scenery of mushroom rocks, sea caves, tofu rocks, candle rocks, and giant’s kettles. Among all, Queen’s Head is the most representative landmark and check-in attraction in Yehliu. Cute Princess, a rock that resembles a girl with a pony tail, is considered the successor of Queen’s Head.<br>
 
-.ve-media gh:DORISSLEE/media/IntroduceTaiwan/Yehliu-QueensHead.jpg right
-Visit the natural geological classroom.Enjoy spectacular scenery, Queen’s Head.
 
-<br>try 1
-.ve-media  https://www.youtube.com/embed/1CdVruB7YLU
-<br>try 2
-.ve-media  https://youtu.be/1CdVruB7YLU
-<br>try 3
-.ve-media  https://youtu.be/1CdVruB7YLU?list=PLde1qZBRawvDYXScScKvPoThfW9y467XT
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+.ve-media https://www.youtube.com/watch?v=1CdVruB7YLU width=50%
 Coast Line : East Rift Valley <br>
 Hot spring<br>
 Taroko Gorge<br>
