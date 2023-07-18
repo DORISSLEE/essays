@@ -53,6 +53,7 @@ Several peaks exceed 3,500 m in height - the highest, Yu Shan at 3,952 m (12,966
 <br>
  
 **Attractions**
+
 ==Taipei 101=={Q83101}  formerly known as the Taipei World Financial Center, is a skyscraper in Taipei, Taiwan. The building was officially classified as the world's tallest from its opening in 2004 until the 2009.
 
 ==National Palace Museum=={Q540668} is a museum in Taipei.  The museum's collection encompasses items spanning 8,000 years of Chinese history from the neolithic age to the modern period. The National Palace Museum shares its roots with the Palace Museum of Beijing, whose extensive collection of artwork and artifacts were built upon the imperial collections of the Ming and Qing dynasties.
