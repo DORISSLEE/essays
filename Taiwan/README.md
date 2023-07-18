@@ -17,7 +17,9 @@ Taiwan has a population of over 23 million. Most of the population is Han Chines
 The official lanaguage is Mandarin Chinese. And we also learn English since elementary school, so many Taiwanese very good at English. 
 
 Taiwanese people are friendly, nice, passionate and hospitable, so it is agreed that this is the most bueatiful sight in Taiwan.
-
+ 
+<br>
+<br>
 <br>
 
 .ve-media gh:DORISSLEE/media/IntroduceTaiwan/Taiwan_Climate.jpg width=40% right
@@ -31,7 +33,9 @@ Summers are hot and humid. And winter are kind of cold.
 <br>
 <br>
 <br>
-<br>
+
+
+
 .ve-media  https://collections.lib.uwm.edu/iiif/info/agdm/25436/manifest.json width=70% right
 
 **Geo Landscape**
