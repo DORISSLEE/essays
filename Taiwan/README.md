@@ -115,6 +115,10 @@ Taiwan is a key player in the supply chain for advanced chips. Taiwan's rise in 
 
 Other well-known international technology companies headquartered in Taiwan include personal computer manufacturers Acer Inc., HTC and Asus, as well as electronics manufacturing giant Foxconn.
 
+###Taipei Scooter Waterfall
+Scooters  are the most common tool for commuting in Taiwan. They are widely used for daily travel due to their agility in navigating through traffic. The phenomenon of "motorcycle waterfalls," where countless motorcycles flow through the streets during rush hours, even caught the attention of the National Geographic Channel.
+.ve-media https://www.youtube.com/watch?v=0I7H8VQ6RpA width=50%
+
 
 ---
 ###Welcome to visit Taiwan.
