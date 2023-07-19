@@ -1,5 +1,5 @@
-# Taiwan
-
+<img src="https://img.freepik.com/free-vector/welcome-taiwan-banner_1284-32836.jpg?w=1380&t=st=1689789834~exp=1689790434~hmac=511169478e45fece57fd920d59e8b6cf6b010a0938794392234102df2327d4a5"?raw=true"></img>
+[由 Macrovector / Freepik 設計](http://www.freepik.com)
 ---
 ### Formosa 
 
@@ -30,7 +30,7 @@ Taiwanese people are friendly, nice, passionate and hospitable, so it is agreed 
 The climate ranges from tropical in the south to subtropical in the north, and is governed by the East Asian Monsoon. 
 <br>
 
-Summers are hot and humid. And winter are kind of cold.
+Summers are hot and humid. And winters are kind of cold.
 
 <br>
 <br>
@@ -129,32 +129,22 @@ Scooters are the most common tool for commuting in Taiwan. They are widely used 
 
 ---
 ###Welcome to visit Taiwan.
+.ve-media https://www.youtube.com/watch?v=eufiu-irFqc width=50%
 
 <br>
-
-.ve-map Q7896620 3  width=30% 
+.ve-map Q7896620 3  width=70% right sticky
     - Q706712 
     - Q7896620
+    
+We hope you have a wonderful time exploring our beautiful island. With a direct flight of 14 hours, you'll soon experience the warmth of our culture, the richness of our history, and the deliciousness of our cuisine. 
+
+Enjoy your stay!
+
 Fly to ==Taiwan=={flyto:Q706712}  
 Fly to ==Milwaukee=={flyto:Q7896620}  
 <br>
- 
-.ve-media https://www.youtube.com/watch?v=eufiu-irFqc width=50%
- 
+<br>
+<br> 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-Hot spring<br>
-
-
-**Food**
-Taiwanese Food
-Night Market
-
-**NTNU**
+  
