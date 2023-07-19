@@ -26,6 +26,7 @@ Taiwanese people are friendly, nice, passionate and hospitable, so it is agreed 
 
 The climate ranges from tropical in the south to subtropical in the north, and is governed by the East Asian Monsoon. 
 <br>
+
 Summers are hot and humid. And winter are kind of cold.
 
 <br>
@@ -53,20 +54,27 @@ Several peaks exceed 3,500 m in height - the highest, Yu Shan at 3,952 m (12,966
 <br>
  
 ###Attractions
+**Taipei 101**
 
 ==Taipei 101=={Q83101}  formerly known as the Taipei World Financial Center, is a skyscraper in Taipei, Taiwan. The building was officially classified as the world's tallest from its opening in 2004 until the 2009.
+
+**National Palace Museum**
 
 ==National Palace Museum=={Q540668} is a museum in Taipei.  The museum's collection encompasses items spanning 8,000 years of Chinese history from the neolithic age to the modern period. The National Palace Museum shares its roots with the Palace Museum of Beijing, whose extensive collection of artwork and artifacts were built upon the imperial collections of the Ming and Qing dynasties.
 
 .ve-media gh:DORISSLEE/media/IntroduceTaiwan/Yehliu-QueensHead.jpg width=70% right
-==Coast Line : Yehliu Geopark=={Q716932} 
+**Coast Line : Yehliu Geopark**
+
+==Yehliu Geopark=={Q716932}  features all sorts of strange-looking rocks. It is part of Datun Mountain that stretches out to the sea. Weathering, marine erosion, and crustal movement together created the world-renowned scenery of mushroom rocks, sea caves, tofu rocks, candle rocks, and giant’s kettles. Among all, Queen’s Head is the most representative landmark and check-in attraction in Yehliu. Cute Princess, a rock that resembles a girl with a pony tail, is considered the successor of Queen’s Head.<br>
+
+Visit the natural geological classroom. Enjoy spectacular scenery, Queen’s Head.
 
 [https://newtaipei.travel/en/attractions/detail/111495](https://newtaipei.travel/en/attractions/detail/111495)<br>
 [http://www.ylgeopark.org.tw/](http://www.ylgeopark.org.tw/)<br>
-Yehliu Geo-park features all sorts of strange-looking rocks. It is part of Datun Mountain that stretches out to the sea. Weathering, marine erosion, and crustal movement together created the world-renowned scenery of mushroom rocks, sea caves, tofu rocks, candle rocks, and giant’s kettles. Among all, Queen’s Head is the most representative landmark and check-in attraction in Yehliu. Cute Princess, a rock that resembles a girl with a pony tail, is considered the successor of Queen’s Head.<br>
+.ve-media https://www.youtube.com/watch?v=1CdVruB7YLU width=50%
 
-Visit the natural geological classroom. Enjoy spectacular scenery, Queen’s Head.
- 
+**Sun Moon Lake**
+
 .ve-media gh:DORISSLEE/media/IntroduceTaiwan/Sun_Moon_Lake.jpg width=50% right
 ==Sun Moon Lake=={Q716206} is a lake in Yuchi Township, Nantou County, Taiwan. It is the largest body of water in Taiwan. The area around the lake is home to the Thao tribe, one of aboriginal tribes of Taiwan. 
 <br>
@@ -76,18 +84,26 @@ Sun Moon Lake surrounds a tiny island called Lalu. The east side of the lake res
 <br>
 .ve-media  https://collections.lib.uwm.edu/iiif/info/agsphoto/36469/manifest.json width=50% left
 .ve-media https://collections.lib.uwm.edu/iiif/info/agsphoto/36509/manifest.json width=50% right
-<br>
 
+<br>
+<br>
+<br>
+**Taroko National Park**
 .ve-media https://collections.lib.uwm.edu/iiif/info/agsphoto/36493/manifest.json width=50% right
+
 ==Taroko National Park=={Q707427}, situated in the eastern part of the Taiwan and established on November 28, 1986, covers more than 92,000 hectares in the northern section of the Central Mountain Range. This park features high mountains and sheer gorges. Many of its peaks tower above 3,000m in elevation, with many natural wonders. 
 
 The spectacular Taroko Gorge and the scenic beauty of Liwu River can be conveniently viewed from the Central Cross-Island Highway. The varied mountain peaks, numerous waterfalls, diverse plant forms and animal life, together with the indigenous Taroko people, create the rich texture of this unique natural ecosystem.
 
 ###Foods
+Xiao Long Bao(Dumplins)
+Din Tai Fung is one of CNN Travel's golden chains: 20 greatest franchises for travelers. They said: 'Why we love it: Tansparent dumpling skin allows us to assess ingredients inside.' When you are in Taiwan, do'nt miss it.
 
-Night markets
-When you are in Taiwan, don't miss the famous Taiwanese night market, There are many dilicious Taiwanese snacks. 
+Night Markets
+There are many dilicious Taiwanese snacks. Each night market has its own characteristics. For example, fried chicken fillet,  bubble tea, papaya milk and oyster omelet are Taiwanese specialties. You shold try out these snacks .
 
+Convenience Stories
+Taiwan has the highest concentration of convenience stores of any country around the world. You can find convenience stores everywhere and everytime, even in the remote mountainous area or offshore islands. Foods, drinks,  books, groceries and ATM etc, they provide 24 hours service to support anything you need.
 
 ---
 ###Welcome to visit Taiwan.
@@ -114,10 +130,9 @@ Taipei 101<br>
 <br>
 <br>
 <br>
-.ve-media https://www.youtube.com/watch?v=1CdVruB7YLU width=50%
-Coast Line : East Rift Valley <br>
+
 Hot spring<br>
-Taroko Gorge<br>
+
 
 **Food**
 Taiwanese Food
