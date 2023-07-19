@@ -137,7 +137,7 @@ Other well-known international technology companies headquartered in Taiwan incl
 ###Scooter Waterfall in Taipei
 
 Scooters are the most common tool for commuting in Taiwan. They are widely used for daily travel due to their agility in navigating through traffic. The phenomenon of "Scooter waterfalls," where countless motorcycles flow through the streets during rush hours, even caught the attention of the 2018 National Geographic Travel Photographer of the Year.
-.ve-media https://www.youtube.com/watch?v=0I7H8VQ6RpA 
+.ve-media https://www.youtube.com/watch?v=0I7H8VQ6RpA width=60%
 <br>
 <br>
 
