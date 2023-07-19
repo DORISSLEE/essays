@@ -114,7 +114,7 @@ Taiwanese cuisine is delicous. You can find  many dilicious Taiwanese snacks in 
 
 Taiwan has the highest concentration of convenience stores of any country around the world. You can find convenience stores everywhere and everytime, even in the remote mountainous area or offshore islands. Foods, drinks,  books, groceries and ATM etc, they provide 24 hours service to support anything you need.
 
-###High-tech manufacturing
+###High-tech Manufacturing
 Since the 1980s, a number of Taiwan-based technology firms have expanded their reach around the world. Computex, a trade fair held annually in Taipei, has rapidly expanded and become an important showcase for the ICT industry globally. 
 
 Taiwan is a key player in the supply chain for advanced chips. Taiwan's rise in the key semiconductor industry was largely attributed to Taiwan Semiconductor Manufacturing Co. (TSMC) and United Microelectronic Corporation (UMC). TSMC is the 9th largest in the world by market capitalization as well as the world's biggest semiconductor manufacturing company, surpassing Intel and Samsung.TSMC was the first Taiwanese company to be listed on the New York Stock Exchange, under the trade name "TSM", in October 1997.As of Q4 2022, TSMC is responsible for 60% of the total semiconductor market making it the biggest foundry.
