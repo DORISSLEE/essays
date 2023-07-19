@@ -135,15 +135,11 @@ Scooters are the most common tool for commuting in Taiwan. They are widely used 
 .ve-map Q7896620 3  width=30% 
     - Q706712 
 Fly to ==Taiwan=={flyto:Q706712}  
+Fly to ==Milwaukee=={flyto:Q7896620}  
 <br>
  
-Mt. Jade 
-ic chip 
-**Visiting Spot**
-National Palace Museum<br>
-Taipei 101<br>
-
-
+.ve-media https://www.youtube.com/watch?v=eufiu-irFqc width=50%
+ 
 <br>
 <br>
 <br>
