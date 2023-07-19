@@ -38,6 +38,7 @@ Summers are hot and humid. And winter are kind of cold.
 
 ###Geo Landscape
 .ve-media  https://collections.lib.uwm.edu/iiif/info/agdm/25436/manifest.json width=70% right
+(Data Source: UWM AGSL photo archive)
 
 Taiwan is in an earthquake zone, so every year we experience many earthquakes.
 
@@ -71,7 +72,9 @@ Visit the natural geological classroom. Enjoy spectacular scenery, Queen’s Hea
 Sun Moon Lake surrounds a tiny island called Lalu. The east side of the lake resembles a sun while the west side resembles a moon, hence the name.
 <br>
 .ve-media  https://collections.lib.uwm.edu/iiif/info/agsphoto/36469/manifest.json width=50% left
+(Data Source: UWM AGSL photo archive)
 .ve-media https://collections.lib.uwm.edu/iiif/info/agsphoto/36509/manifest.json width=50% right
+(Data Source: UWM AGSL photo archive)
 <br>
 
 ###Foods
