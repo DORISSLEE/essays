@@ -21,8 +21,8 @@ Taiwanese people are friendly, nice, passionate and hospitable, so it is agreed 
 <br>
 <br>
 
-.ve-media gh:DORISSLEE/media/IntroduceTaiwan/Taiwan_Climate.jpg width=40% right
 ###Climate
+.ve-media gh:DORISSLEE/media/IntroduceTaiwan/Taiwan_Climate.jpg width=40% right
 
 The climate ranges from tropical in the south to subtropical in the north, and is governed by the East Asian Monsoon. 
 <br>
@@ -35,9 +35,9 @@ Summers are hot and humid. And winter are kind of cold.
 
 
 
-.ve-media  https://collections.lib.uwm.edu/iiif/info/agdm/25436/manifest.json width=70% right
 
 ###Geo Landscape
+.ve-media  https://collections.lib.uwm.edu/iiif/info/agdm/25436/manifest.json width=70% right
 
 Taiwan is in an earthquake zone, so every year we experience many earthquakes.
 
