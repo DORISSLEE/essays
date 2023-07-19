@@ -78,8 +78,11 @@ Sun Moon Lake surrounds a tiny island called Lalu. The east side of the lake res
 .ve-media https://collections.lib.uwm.edu/iiif/info/agsphoto/36509/manifest.json width=50% right
 <br>
 
-==Taroko National Park=={Q707427}, situated in the eastern part of the Taiwan and established on November 28, 1986, covers more than 92,000 hectares in the northern section of the Central Mountain Range. This park features high mountains and sheer gorges. Many of its peaks tower above 3,000m in elevation, with many natural wonders. The spectacular Taroko Gorge and the scenic beauty of Liwu River can be conveniently viewed from the Central Cross-Island Highway. The varied mountain peaks, numerous waterfalls, diverse plant forms and animal life, together with the indigenous Taroko people, create the rich texture of this unique natural ecosystem.
 .ve-media https://collections.lib.uwm.edu/iiif/info/agsphoto/36493/manifest.json width=50% right
+
+==Taroko National Park=={Q707427}, situated in the eastern part of the Taiwan and established on November 28, 1986, covers more than 92,000 hectares in the northern section of the Central Mountain Range. This park features high mountains and sheer gorges. Many of its peaks tower above 3,000m in elevation, with many natural wonders. 
+
+The spectacular Taroko Gorge and the scenic beauty of Liwu River can be conveniently viewed from the Central Cross-Island Highway. The varied mountain peaks, numerous waterfalls, diverse plant forms and animal life, together with the indigenous Taroko people, create the rich texture of this unique natural ecosystem.
 
 ###Foods
 
