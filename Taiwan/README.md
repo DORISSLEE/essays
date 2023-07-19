@@ -96,13 +96,16 @@ Sun Moon Lake surrounds a tiny island called Lalu. The east side of the lake res
 The spectacular Taroko Gorge and the scenic beauty of Liwu River can be conveniently viewed from the Central Cross-Island Highway. The varied mountain peaks, numerous waterfalls, diverse plant forms and animal life, together with the indigenous Taroko people, create the rich texture of this unique natural ecosystem.
 
 ###Foods
-Xiao Long Bao(Dumplins)
+**Xiao Long Bao(Dumplins)**
+
 Din Tai Fung is one of CNN Travel's golden chains: 20 greatest franchises for travelers. They said: 'Why we love it: Tansparent dumpling skin allows us to assess ingredients inside.' When you are in Taiwan, do'nt miss it.
 
-Night Markets
+**Night Markets**
+
 There are many dilicious Taiwanese snacks. Each night market has its own characteristics. For example, fried chicken fillet,  bubble tea, papaya milk and oyster omelet are Taiwanese specialties. You shold try out these snacks .
 
-Convenience Stories
+**Convenience Stories**
+
 Taiwan has the highest concentration of convenience stores of any country around the world. You can find convenience stores everywhere and everytime, even in the remote mountainous area or offshore islands. Foods, drinks,  books, groceries and ATM etc, they provide 24 hours service to support anything you need.
 
 ---
