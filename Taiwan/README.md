@@ -32,6 +32,7 @@ The climate ranges from tropical in the south to subtropical in the north, and i
 
 Summers are hot and humid. And winters are kind of cold.
 
+(Data source:[Wikipedia](https://en.wikipedia.org/wiki/Geography_of_Taiwan#Climate))
 <br>
 <br>
 <br>
@@ -86,7 +87,10 @@ Sun Moon Lake surrounds a tiny island called Lalu. The east side of the lake res
 (Photo data source: UWM AGSL photo archive)
 <br>
 .ve-media https://collections.lib.uwm.edu/iiif/info/agsphoto/36469/manifest.json width=50% left
+
 .ve-media https://collections.lib.uwm.edu/iiif/info/agsphoto/36509/manifest.json width=50% right
+
+.ve-media https://collections.lib.uwm.edu/iiif/info/agsphoto/36454/manifest.json width=50% right
 
 <br>
 <br>
@@ -100,15 +104,24 @@ The spectacular Taroko Gorge and the scenic beauty of Liwu River can be convenie
 
 ###Foods
 **Night Markets**
+.ve-media https://www.youtube.com/watch?v=SSQdmrgWnLo width=60% right stick
 
-Taiwanese cuisine is delicous. You can find  many dilicious Taiwanese snacks in ==Night markets=={Q282587} anywhere in Taiwan . Each night market has its own characteristics. For example, fried chicken fillet,  bubble tea, papaya milk and oyster omelet are Taiwanese specialties. You shold try all those popular snacks .
-.ve-media https://www.youtube.com/watch?v=SSQdmrgWnLo width=50%
+Taiwanese cuisine is delicous. You can find  many dilicious Taiwanese snacks in ==Night markets=={Q282587} anywhere in Taiwan . Each night market has its own characteristics. 
+<br>
 
+For example, fried chicken fillet,  bubble tea, papaya milk and oyster omelet are Taiwanese specialties. You shold try all those popular snacks .
+<br>
+<br>
 
 **Xiao Long Bao(Dumplins)**
 
-==Din Tai Fung=={Q699142} is one of CNN Travel's golden chains: 20 greatest franchises for travelers. They said: 'Why we love it: Tansparent dumpling skin allows us to assess ingredients inside.' When you are in Taiwan, do'nt miss it.
-.ve-media https://www.youtube.com/watch?v=Ga0HrDtVh7M width=50%
+.ve-media https://www.youtube.com/watch?v=Ga0HrDtVh7M width=60% right stick
+
+==Din Tai Fung=={Q699142} is one of CNN Travel's golden chains: 20 greatest franchises for travelers. They said: 'Why we love it: Tansparent dumpling skin allows us to assess ingredients inside.' 
+<br>
+When you are in Taiwan, do'nt miss it.
+<br>
+<br>
 
 **Convenience Stories**
 
@@ -124,8 +137,9 @@ Other well-known international technology companies headquartered in Taiwan incl
 ###Scooter Waterfall in Taipei
 
 Scooters are the most common tool for commuting in Taiwan. They are widely used for daily travel due to their agility in navigating through traffic. The phenomenon of "Scooter waterfalls," where countless motorcycles flow through the streets during rush hours, even caught the attention of the 2018 National Geographic Travel Photographer of the Year.
-.ve-media https://www.youtube.com/watch?v=0I7H8VQ6RpA width=50%
-
+.ve-media https://www.youtube.com/watch?v=0I7H8VQ6RpA 
+<br>
+<br>
 
 ---
 ###Welcome to visit Taiwan.
