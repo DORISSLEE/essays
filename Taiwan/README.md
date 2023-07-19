@@ -16,7 +16,10 @@ Taiwan has a population of over 23 million. Most of the population is Han Chines
 The official lanaguage is Mandarin Chinese. And we also learn English since elementary school, so many Taiwanese very good at English. 
 
 Taiwanese people are friendly, nice, passionate and hospitable, so it is agreed that this is the most bueatiful sight in Taiwan.
- 
+
+.ve-media https://www.youtube.com/watch?v=wY0eEUttUZQ width=50%
+
+
 <br>
 <br>
 <br>
