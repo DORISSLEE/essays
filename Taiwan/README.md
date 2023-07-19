@@ -103,6 +103,7 @@ Taiwanese cuisine is delicous. You can find  many dilicious Taiwanese snacks in 
 **Xiao Long Bao(Dumplins)**
 
 ==Din Tai Fung=={Q699142} is one of CNN Travel's golden chains: 20 greatest franchises for travelers. They said: 'Why we love it: Tansparent dumpling skin allows us to assess ingredients inside.' When you are in Taiwan, do'nt miss it.
+.ve-media https://www.youtube.com/watch?v=Ga0HrDtVh7M width=50%
 
 **Convenience Stories**
 
@@ -115,8 +116,9 @@ Taiwan is a key player in the supply chain for advanced chips. Taiwan's rise in 
 
 Other well-known international technology companies headquartered in Taiwan include personal computer manufacturers Acer Inc., HTC and Asus, as well as electronics manufacturing giant Foxconn.
 
-###Taipei Scooter Waterfall
-Scooters  are the most common tool for commuting in Taiwan. They are widely used for daily travel due to their agility in navigating through traffic. The phenomenon of "motorcycle waterfalls," where countless motorcycles flow through the streets during rush hours, even caught the attention of the National Geographic Channel.
+###Scooter Waterfall in Taipei
+
+Scooters are the most common tool for commuting in Taiwan. They are widely used for daily travel due to their agility in navigating through traffic. The phenomenon of "Scooter waterfalls," where countless motorcycles flow through the streets during rush hours, even caught the attention of the 2018 National Geographic Travel Photographer of the Year.
 .ve-media https://www.youtube.com/watch?v=0I7H8VQ6RpA width=50%
 
 
