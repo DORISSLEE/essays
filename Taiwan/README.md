@@ -22,7 +22,7 @@ Taiwanese people are friendly, nice, passionate and hospitable, so it is agreed 
 <br>
 
 .ve-media gh:DORISSLEE/media/IntroduceTaiwan/Taiwan_Climate.jpg width=40% right
-**Climate**
+###Climate
 
 The climate ranges from tropical in the south to subtropical in the north, and is governed by the East Asian Monsoon. 
 <br>
@@ -37,7 +37,7 @@ Summers are hot and humid. And winter are kind of cold.
 
 .ve-media  https://collections.lib.uwm.edu/iiif/info/agdm/25436/manifest.json width=70% right
 
-**Geo Landscape**
+###Geo Landscape
 
 Taiwan is in an earthquake zone, so every year we experience many earthquakes.
 
@@ -51,7 +51,7 @@ Several peaks exceed 3,500 m in height - the highest, Yu Shan at 3,952 m (12,966
 <br>
 <br>
  
-**Attractions**
+###Attractions
 
 ==Taipei 101=={Q83101}  formerly known as the Taipei World Financial Center, is a skyscraper in Taipei, Taiwan. The building was officially classified as the world's tallest from its opening in 2004 until the 2009.
 
@@ -81,7 +81,7 @@ When you are in Taiwan, don't miss the famous Taiwanese night market, There are 
 
 
 ---
-Welcome to visit Taiwan.
+###Welcome to visit Taiwan.
 
 <br>
 
