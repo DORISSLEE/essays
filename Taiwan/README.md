@@ -70,7 +70,7 @@ Visit the natural geological classroom. Enjoy spectacular scenery, Queen’s Hea
 ==Sun Moon Lake=={Q716206} is a lake in Yuchi Township, Nantou County, Taiwan. It is the largest body of water in Taiwan. The area around the lake is home to the Thao tribe, one of aboriginal tribes of Taiwan. 
 Sun Moon Lake surrounds a tiny island called Lalu. The east side of the lake resembles a sun while the west side resembles a moon, hence the name.
 <br>
-.ve-media  https://collections.lib.uwm.edu/iiif/info/agsphoto/36469/manifest.json width=50% right
+.ve-media  https://collections.lib.uwm.edu/iiif/info/agsphoto/36469/manifest.json width=50% left
 .ve-media https://collections.lib.uwm.edu/iiif/info/agsphoto/36509/manifest.json width=50% right
 <br>
 
