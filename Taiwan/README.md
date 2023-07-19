@@ -85,7 +85,7 @@ Sun Moon Lake surrounds a tiny island called Lalu. The east side of the lake res
 
 (Photo data source: UWM AGSL photo archive)
 <br>
-.ve-media  https://collections.lib.uwm.edu/iiif/info/agsphoto/36469/manifest.json width=50% left
+.ve-media https://collections.lib.uwm.edu/iiif/info/agsphoto/36469/manifest.json width=50% left
 .ve-media https://collections.lib.uwm.edu/iiif/info/agsphoto/36509/manifest.json width=50% right
 
 <br>
