@@ -38,7 +38,7 @@ Summers are hot and humid. And winter are kind of cold.
 
 ###Geo Landscape
 .ve-media  https://collections.lib.uwm.edu/iiif/info/agdm/25436/manifest.json width=70% right
-(Data Source: UWM AGSL photo archive)
+
 
 Taiwan is in an earthquake zone, so every year we experience many earthquakes.
 
@@ -47,7 +47,7 @@ The heavily forested eastern mountains provide a habitat for a diverse range of 
 Geologically, the main island comprises a tilted fault block, characterized by the contrast between the eastern two-thirds, consisting mostly of five rugged mountain ranges running parallel to the east coast, and the flat to gently rolling plains of the western third, where the majority of the population resides. 
 
 Several peaks exceed 3,500 m in height - the highest, Yu Shan at 3,952 m (12,966 ft), makes Taiwan the world's fourth-highest island. The tectonic boundary that formed these ranges remains active, and the island experiences many earthquakes, a few of them highly destructive. There are also many[quantify] active submarine volcanoes in the Taiwan Straits.
-
+(Photo data source: UWM AGSL photo archive)
 <br>
 <br>
 <br>
@@ -70,11 +70,11 @@ Visit the natural geological classroom. Enjoy spectacular scenery, Queen’s Hea
 .ve-media gh:DORISSLEE/media/IntroduceTaiwan/Sun_Moon_Lake.jpg width=50% right
 ==Sun Moon Lake=={Q716206} is a lake in Yuchi Township, Nantou County, Taiwan. It is the largest body of water in Taiwan. The area around the lake is home to the Thao tribe, one of aboriginal tribes of Taiwan. 
 Sun Moon Lake surrounds a tiny island called Lalu. The east side of the lake resembles a sun while the west side resembles a moon, hence the name.
+
+(Photo data source: UWM AGSL photo archive)
 <br>
 .ve-media  https://collections.lib.uwm.edu/iiif/info/agsphoto/36469/manifest.json width=50% left
-(Data Source: UWM AGSL photo archive)
 .ve-media https://collections.lib.uwm.edu/iiif/info/agsphoto/36509/manifest.json width=50% right
-(Data Source: UWM AGSL photo archive)
 <br>
 
 ###Foods
