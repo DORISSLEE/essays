@@ -1,5 +1,5 @@
 <img src="https://img.freepik.com/free-vector/welcome-taiwan-banner_1284-32836.jpg?w=1380&t=st=1689789834~exp=1689790434~hmac=511169478e45fece57fd920d59e8b6cf6b010a0938794392234102df2327d4a5"?raw=true"></img>
-######[由 Macrovector / Freepik 設計](http://www.freepik.com)
+######[Picture designed by Macrovector / Freepik](http://www.freepik.com)
 ---
 ### Formosa 
 
